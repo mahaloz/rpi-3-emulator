@@ -16,7 +16,7 @@ Once you have QEMU installed, you need to download a Linux OS image. This repo
 supports Rasbian Buster Lite -- for simple bash access. You can find the zipped
 image [here](https://downloads.raspberrypi.org/raspbian_lite_latest).
 
-Placed the zipped package in this directory and run:
+Place the zipped package in this directory and run:
 
 ```bash
 unzip *-raspbian-buster-lite.zip ; rm *-raspbian-buster-lite.zip ; mv *-raspbian-buster-lite.img raspbian-buster-lite.img
